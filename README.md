@@ -34,4 +34,5 @@
 * [Προσωπικό αποθετήριο κώδικα εργασίας](https://github.com/p15poly/D3js-US-educational-attainment)
 * [Σελίδα Εφαρμογής](https://p15poly.github.io/D3js-US-educational-attainment/)
 * [Λίστα αλλαγών στον κώδικα](https://github.com/p15poly/D3js-US-educational-attainment/commits/paradoteo2)
+* [Παραδοτέα στο αποθετήριο του μαθήματος](https://github.com/p15poly/hci/blob/paradoteo2/projects/2015084/readme.md)
 * [ΕΛΣΤΑΤ](http://www.statistics.gr/)
